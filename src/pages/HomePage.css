@@ -1,0 +1,30 @@
+.player {
+    height: 55px;
+    background: #404040; 
+    font-family: 'Spotify';
+    color: #fff;
+    font-size: small;
+}
+
+.player img {
+    height: 55px;
+}
+
+.progress-bar {
+    height: 2px;
+    width: 100%;
+    background: #707070;
+}
+
+.progress-bar .progress {
+    background: #fff; /* Warna putih untuk kemajuan */
+    height: 100%;
+}
+
+ion-tab-bar {
+    --background: #404040; 
+}
+
+ion-tab-button {
+    --color-selected: #fff; /* Warna teks terpilih */
+}
